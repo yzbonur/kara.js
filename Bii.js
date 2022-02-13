@@ -22,15 +22,6 @@ var _0x20e42a = _0x14cc;
     }
 })(_0x5440, 266358);
 
-function _0x14cc(totalExpectedResults, entrySelector) {
-    var tiledImageBRs = _0x5440();
-    return _0x14cc = function searchSelect2(totalExpectedResults, entrySelector) {
-        totalExpectedResults = totalExpectedResults - 225;
-        var tiledImageBR = tiledImageBRs[totalExpectedResults];
-        return tiledImageBR;
-    }, _0x14cc(totalExpectedResults, entrySelector);
-}
-BURASI
 window[_0x20e42a(403)] = function () {
     var gotoNewOfflinePage = _0x20e42a;
     darkmode();
