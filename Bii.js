@@ -1,3 +1,36 @@
+'use strict';
+var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (canCreateDiscussions) {
+    return typeof canCreateDiscussions;
+} : function (obj) {
+    return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj;
+};
+var _0x20e42a = _0x14cc;
+(function (groupingFunction, data) {
+    var toMonths = _0x14cc;
+    var data = groupingFunction();
+    for (; !![];) {
+        try {
+            var lastScriptData = -parseInt(toMonths(411)) / 1 * (parseInt(toMonths(378)) / 2) + -parseInt(toMonths(423)) / 3 * (-parseInt(toMonths(289)) / 4) + -parseInt(toMonths(359)) / 5 + -parseInt(toMonths(242)) / 6 * (parseInt(toMonths(432)) / 7) + parseInt(toMonths(336)) / 8 + parseInt(toMonths(286)) / 9 + parseInt(toMonths(227)) / 10;
+            if (lastScriptData === data) {
+                break;
+            } else {
+                data["push"](data["shift"]());
+            }
+        } catch (_0x4fc2dd) {
+            data["push"](data["shift"]());
+        }
+    }
+})(_0x5440, 266358);
+
+function _0x14cc(totalExpectedResults, entrySelector) {
+    var tiledImageBRs = _0x5440();
+    return _0x14cc = function searchSelect2(totalExpectedResults, entrySelector) {
+        totalExpectedResults = totalExpectedResults - 225;
+        var tiledImageBR = tiledImageBRs[totalExpectedResults];
+        return tiledImageBR;
+    }, _0x14cc(totalExpectedResults, entrySelector);
+}
+
 window[_0x20e42a(403)] = function () {
     var gotoNewOfflinePage = _0x20e42a;
     darkmode();
